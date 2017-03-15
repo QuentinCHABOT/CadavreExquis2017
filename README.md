@@ -11,3 +11,6 @@ Tous les membres de la formation.
 
 ## Auteur
 C'est moi: Quentin
+
+## Remerciements
+Merci à toutes et a tous
