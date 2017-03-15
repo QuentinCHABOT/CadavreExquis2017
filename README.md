@@ -8,3 +8,6 @@ Principe de jeu à décrire ici
 
 ### Participants
 Tous les membres de la formation.
+
+## Auteur
+C'est moi: Quentin
